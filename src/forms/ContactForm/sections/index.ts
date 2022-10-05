@@ -1,0 +1,8 @@
+export { default as DatesFieldArray } from "./DatesFieldArray"
+export { default as EmailAddressesFieldArray } from "./EmailAddressesFieldArray"
+export { default as IdentityFields } from "./IdentityFields"
+export { default as MailingAddressesFieldArray } from "./MailingAddressesFieldArray"
+export { default as NotesFieldArray } from "./NotesFieldArray"
+export { default as OrganizationFields } from "./OrganizationFields"
+export { default as PhoneNumbersFieldArray } from "./PhoneNumbersFieldArray"
+export { default as UrlsFieldArray } from "./UrlsFieldArray"
